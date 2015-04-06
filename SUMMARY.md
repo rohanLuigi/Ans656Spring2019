@@ -3,7 +3,7 @@
 * [introduction](README.md)
 * [Basics](chapter1.md)
    * [Map Functions](basics/MapFunction.md)
-   * [Computation of Recombination Probabilities](basic/RecProb.md)
+   * [Computation of Recombination Probabilities](basics/RecProb.md)
    * [Linkage Disequilibrium](basics/LD.md)
 * [Bayesian Methods](chapter2.md)
    * [Bayesian Theorem](basics/MapFunction.md)
@@ -20,3 +20,4 @@
    * [Map Functions](basics/MapFunction.md)
    * [Computation of Recombination Probabilities](basic/RecProb.md)
    * [Linkage Disequilibrium](basics/LD.md)
+
