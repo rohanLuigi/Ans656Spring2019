@@ -73,17 +73,23 @@ used to develop a differential equation, the solution for which yields
 the map function. Both of these approaches are described in detail
 below.
 
+\\[\begin{aligned}
+\dot{x} & = \sigma(y-x) \\\
+\dot{y} & = \rho x - y - xz \\\
+\dot{z} & = -\beta z + xy
+\end{aligned} \\]
+
 Suppose that $P_{t}$ is the probability of $t$ crossovers in a
 chromosomal interval of length $x$ Morgans. Recall that a recombination
 is observed when an odd number of crossovers occurs in this interval.
 Thus, probability $r_{x}$ of a recombination in an interval of length
 $x$ is
 
-$$
+$${}
 r_{x}
-& =& P_{1}+P_{3}+P_{5}+\cdots\\
-& =& {\frac{1}{2}}(1-\sum_{t}P_{t}(-1)^{t})\\
-& =& {\frac{1}{2}}(1-P(-1))
+= P_{1}+P_{3}+P_{5}+\cdots
+= {\frac{1}{2}}(1-\sum_{t}P_{t}(-1)^{t})
+= {\frac{1}{2}}(1-P(-1))
 $$
 
 where $P(S)=\sum_{t}P_{t}S^{t}$ is the *probability generating function* of the
