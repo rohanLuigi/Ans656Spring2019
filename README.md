@@ -10,7 +10,7 @@ The note is entirely written inside <a href="http://ipython.org/notebook.html" t
 
 > Why [Jupyter notebook](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)?
 
-[Juliabox](https://www.juliabox.org) can be used to easily check this notebook.123
+[Juliabox](https://www.juliabox.org) can be used to easily check this notebook.
 
 
 ####About ANS656
