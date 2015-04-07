@@ -79,13 +79,13 @@ is observed when an odd number of crossovers occurs in this interval.
 Thus, probability $r_{x}$ of a recombination in an interval of length
 $x$ is
 
-$$\begin{eqnarray}
+$$
+\begin{eqnarray}
 r_{x}
 & =& P_{1}+P_{3}+P_{5}+\cdots\\
 & =& {\frac{1}{2}}(1-\sum_{t}P_{t}(-1)^{t})\\
 & =& {\frac{1}{2}}(1-P(-1))
 \end{eqnarray}
-\tag{2}
 $$
 
 where $P(S)=\sum_{t}P_{t}S^{t}$ is the *probability generating function* of the
