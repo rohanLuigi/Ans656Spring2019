@@ -1,4 +1,4 @@
-##Statistical Methods for Whole Genome Analyses
+# Statistical Methods for Whole Genome Analyses
 
 <div style="float:right; \">
 <img src="QTL.jpg" 
@@ -6,21 +6,15 @@
  />
 </div>
 
-The note is entirely written inside <a href="http://ipython.org/notebook.html" target="_blank">Jupeter notebooks</a>. <br>
-
-> Why [Jupyter notebook](http://www.nature.com/news/interactive-notebooks-sharing-the-code-1.16261)?
-
-[Juliabox](https://www.juliabox.org) can be used to easily check this notebook.
 
 
-####About ANS656
+
+###
 
 Instructor: 
 
 * Rohan Fernando (rohan@iastate.edu)
 
-TA:        
-* Hao Cheng (haocheng@iastate.edu)
 
 ###Content
 
