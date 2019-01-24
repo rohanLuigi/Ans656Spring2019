@@ -16,7 +16,7 @@ Instructor:
 * Rohan Fernando (rohan@iastate.edu)
 
 
-###Content
+# Contents
 
 * Section 1:&nbsp; **Basic**
     * [1.1](basic/MapFunction.ipynb) &nbsp; Map Funtions
