@@ -7,4 +7,4 @@ Instructor:
 * Rohan Fernando (rohan@iastate.edu)
 
 
-# [Contents](index.ipynb)
+# [Contents](./index.ipynb)
