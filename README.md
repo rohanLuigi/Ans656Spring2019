@@ -7,4 +7,4 @@ Instructor:
 * Rohan Fernando (rohan@iastate.edu)
 
 
-# [Contents](https://github.com/rohanLuigi/Ans696Spring2019/blob/master/index.ipynb)
+# [Contents](https://github.com/rohanLuigi/Ans656Spring2019/blob/master/Index.ipynb)
